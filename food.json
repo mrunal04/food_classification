@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "instruction":
+            "To heat-treat your all-purpose flour so it is safe to use: Place flour in a microwave-safe dish and cook for 1 minute and 15 seconds, stirring it every 15 seconds. Set aside.Beat sugar and butter with an electric mixer in a large bowl until creamy. Beat in vanilla extract and salt. Add heat-treated flour; mix until a crumbly dough forms. Stir in milk until dough is just combined; fold in milk chocolate chips and mini chocolate chips.",
+        "ingredient":[
+            "200g baking powder",
+            "3 eggs",
+            "100g flour",
+            "butter",
+            "1 ltr milk",
+            "4 tsp sugar(brown)",
+            "1 tsp salt//"
+        ]
+    },
+    {
+        "id":2,
+        "instruction":
+            "Boil water in a saucepan.Add sugar and tea powder in it and boil it for 3-4 minutes on medium flame.Add milk and boil it over medium flame for 6-7 minutes or until bubble starts to rise. You will see the change in color of the tea from milky shade to brown shade when it is ready.Turn off the gas and strain tea in cups.",
+        "ingredient":[
+            "1 cup (250 ml) Milk",
+            "2 teaspoons Tea Powder",
+            "1/4 cup (approx. 60 ml) Water",
+            "3 teaspoons Sugar"
+        ]
+    },
+    {
+        "id":3,
+        "instruction":
+            "Stir together flour, baking powder, sugar, and salt in a bowl. Cut in butter until mixture is crumbly. Stir in milk and mix until a batter forms that is thick enough to be scooped with a spoon. Allow batter to rest for 3 to 5 minutes.Drop batter by spoonfuls into boiling stew or soup. Cover and simmer without lifting the lid for 15 minutes. Serve",
+        "ingredient":[
+            "1 cup all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon white sugar",
+            "1/2 teaspoon salt",
+            "1 tablespoon margarine",
+            "1/2 cup milk"
+        ]
+    },
+    {
+        "id":4,
+        "instruction":
+            "To heat-treat your all-purpose flour so it is safe to use: Place flour in a microwave-safe dish and cook for 1 minute and 15 seconds, stirring it every 15 seconds. Set aside.Beat sugar and butter with an electric mixer in a large bowl until creamy. Beat in vanilla extract and salt. Add heat-treated flour; mix until a crumbly dough forms. Stir in milk until dough is just combined; fold in milk chocolate chips and mini chocolate chips.",
+        "ingredient":[
+            "200g baking powder",
+            "3 eggs",
+            "100g flour",
+            "butter",
+            "1 ltr milk",
+            "4 tsp sugar",
+            "1 tsp salt"
+        ]
+    }
+]
